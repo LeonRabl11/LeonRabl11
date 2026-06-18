@@ -26,7 +26,7 @@ Full-stack development across TOC's production SaaS platforms — real products 
 
 A full-stack online auction platform I built and deployed solo: users list items, place bids, and the highest bidder wins and pays at auction close.
 
-**[Live demo](https://vault-auctions-app.vercel.app)** · **[Code](https://github.com/LeonRabl11/Vault)**
+**[Live demo](https://vault-auctions-app.vercel.app)** · **[Code](https://github.com/LeonRabl11/vault-auctions)**
 
 - Concurrency-safe bidding with PostgreSQL row-level locking
 - Automatic auction close via an AWS Lambda + EventBridge cron
