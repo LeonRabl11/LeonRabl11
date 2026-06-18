@@ -2,9 +2,9 @@
 
 Full-Stack Web Developer based in Bavaria, Germany. I design, build, and ship production SaaS platforms — clean, maintainable code across the whole stack, from database to deployment.
 
-- 🔭 Full-stack developer at **TOC**
+- 🔭 Full-stack developer at **TOC-Agentur für Kommunikation**
 - 🌱 Always expanding my full-stack skills
-- 📫 Reach me: [LinkedIn](your-linkedin-url) · your-email@example.com
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/leon-rabl-web-developer) · leon-rabl@web.de
 
 ## 🏢 Production Work (@ TOC)
 
