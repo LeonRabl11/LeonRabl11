@@ -36,7 +36,7 @@ A full-stack online auction platform I built and deployed solo: users list items
 
 ## 🧳 Other Projects
 
-- [Travel-Me](https://travel-me-2.onrender.com) · [Code](https://github.com/BorisFeuze/Travel-Me) — a full-stack skill-exchange & hosting app (team project)
+- **[Travel-Me](https://travel-me-2.onrender.com)** · **[Code](https://github.com/BorisFeuze/Travel-Me)** — a full-stack work-exchange platform for travelers (team project)
 
 ## 🛠️ Tech Stack
 
