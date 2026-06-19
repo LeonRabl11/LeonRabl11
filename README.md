@@ -12,7 +12,6 @@ Full-stack development across TOC's production SaaS platforms — real products 
 
 - Building new features end-to-end (frontend + backend)
 - Setting up and launching new white-label instances
-- Writing database migrations
 - UI design
 - Debugging and bug fixing across the stack
 
