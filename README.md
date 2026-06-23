@@ -43,5 +43,5 @@ A full-stack online auction platform I built and deployed solo: users list items
 - **Frontend:** React · Next.js · TypeScript · Tailwind CSS · SCSS
 - **Backend:** Node.js · Express · PostgreSQL · MongoDB · Drizzle ORM · REST APIs
 - **Auth & Payments:** Better Auth · NextAuth · Stripe
-- **Cloud & Infra:** AWS (S3, Lambda, EventBridge) · Supabase · Cloudflare R2 · Vercel
+- **Cloud & Infra:** AWS (S3, Lambda, EventBridge) · Supabase · Cloudflare · Vercel
 - **Tools:** Git · Figma · Brevo
