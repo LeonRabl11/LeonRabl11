@@ -4,7 +4,7 @@ Full-Stack Web Developer based in Bavaria, Germany. I design, build, and ship pr
 
 - 🔭 Full-stack developer at **TOC Agentur für Kommunikation**
 - 🌱 Always expanding my full-stack skills
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/leon-rabl-web-developer) · leon-rabl@web.de
+- 📫 Reach me: **[LinkedIn](www.linkedin.com/in/leon-rabl-web-developer)** · leon-rabl@web.de
 
 ## 🏢 Production Work (@ TOC)
 
@@ -17,9 +17,9 @@ Full-stack development across TOC's production SaaS platforms — real products 
 
 **Platforms:**
 
-- [wintersummerjobs.com](https://wintersummerjobs.com) — seasonal hospitality job platform
-- White-label instances: [seefeld.job-offers.com](https://seefeld.job-offers.com) · [kinderhotels.job-offers.com](https://kinderhotels.job-offers.com)
-- [deinewinterwoche.de](https://deinewinterwoche.de) — campaign platform
+- **[wintersummerjobs.com](https://wintersummerjobs.com)** — seasonal hospitality job platform
+- White-label instances: **[seefeld.job-offers.com](https://seefeld.job-offers.com)** · **[kinderhotels.job-offers.com](https://kinderhotels.job-offers.com)**
+- **[deinewinterwoche.de](https://deinewinterwoche.de)** — campaign platform
 
 ## 🚀 Featured Project — Vault
 
