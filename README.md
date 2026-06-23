@@ -4,7 +4,7 @@ Full-Stack Web Developer based in Bavaria, Germany. I design, build, and ship pr
 
 - 🔭 Full-stack developer at **TOC Agentur für Kommunikation**
 - 🌱 Always expanding my full-stack skills
-- 📫 Reach me: **[LinkedIn](www.linkedin.com/in/leon-rabl-web-developer)** · leon-rabl@web.de
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/leon-rabl-web-developer)** · [leon-rabl@web.de](mailto:leon-rabl@web.de)
 
 ## 🏢 Production Work (@ TOC)
 
@@ -40,8 +40,8 @@ A full-stack online auction platform I built and deployed solo: users list items
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · SCSS
-**Backend:** Node.js · Express · PostgreSQL · MongoDB · Drizzle ORM · REST APIs
-**Auth & Payments:** Better Auth · NextAuth · Stripe
-**Cloud & Infra:** AWS (S3, Lambda, EventBridge) · Supabase · Cloudflare R2 · Vercel
-**Tools:** Git · Brevo
+- **Frontend:** React · Next.js · TypeScript · Tailwind CSS · SCSS
+- **Backend:** Node.js · Express · PostgreSQL · MongoDB · Drizzle ORM · REST APIs
+- **Auth & Payments:** Better Auth · NextAuth · Stripe
+- **Cloud & Infra:** AWS (S3, Lambda, EventBridge) · Supabase · Cloudflare R2 · Vercel
+- **Tools:** Git · Figma · Brevo
