@@ -2,7 +2,7 @@
 
 🚀 Full-stack developer based in Bavaria, Germany — I build and ship production SaaS, from database to deployment.
 
-💼 Currently building production platforms **@ TOC Agentur für Kommunikation** — feature work, white-label launches, and UI.
+💼 Currently building production platforms **@ TOC Agentur für Kommunikation**.
 
 ---
 
