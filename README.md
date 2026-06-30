@@ -10,7 +10,7 @@
 
 Full-stack development across TOC's live SaaS platforms — features end-to-end, white-label launches, UI, and bug fixing.
 
-- 🌍 **[wintersummerjobs.com](#)** — seasonal hospitality job platform
+- 🌍 **[wintersummerjobs.com](#)** — seasonal job platform
 - 🏷️ White-label instances — **[seefeld.job-offers.com](#)** · **[kinderhotels.job-offers.com](#)**
 - 📣 **[deinewinterwoche.de](#)** — campaign platform
 
@@ -19,7 +19,7 @@ Full-stack development across TOC's live SaaS platforms — features end-to-end,
 ## ✨ Featured projects
 
 ### 📚 Footnote — agentic RAG knowledge assistant
-Answers questions *only* from your documents and cites every claim down to the page and line — or honestly says it doesn't know. Hybrid retrieval (vector + full-text, RRF), agentic tool-calling, evals, tracing & CI. Built on free tiers.  
+Answers questions only from your documents and cites every claim down to the page and line — or honestly says it doesn't know. Hybrid retrieval (vector + full-text, RRF), agentic tool-calling, evals, tracing & CI. Built on free tiers.  
 🔗 **[Live demo](#)** · **[Code](#)** — `Next.js` · `TypeScript` · `Postgres + pgvector` · `Vercel AI SDK` · `Gemini`
 
 ### 🔨 Vault — full-stack auction platform
@@ -29,13 +29,6 @@ Built and deployed solo: list items, place bids, highest bidder wins and pays at
 ### 🧳 Travel-Me — work-exchange platform for travelers
 Full-stack platform (team project).  
 🔗 **[Code](#)**
-
----
-
-## 📊 GitHub stats
-
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonRabl11&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonRabl11&layout=compact&theme=tokyonight)
 
 ---
 
