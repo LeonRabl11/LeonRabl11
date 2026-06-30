@@ -1,32 +1,45 @@
 # Hi, I'm Leon 👋
 
-Full-stack developer based in Bavaria, Germany. I build and ship production SaaS — clean, maintainable code across the whole stack, from database to deployment.
+🚀 Full-stack developer based in Bavaria, Germany — I build and ship production SaaS, from database to deployment.
 
-Currently shipping production platforms at **TOC Agentur für Kommunikation** — feature work, white-label launches, and UI, on platforms like [wintersummerjobs.com](https://wintersummerjobs.com).
-
-**[LinkedIn](https://www.linkedin.com/in/your-handle)** — full CV & experience  ·  leon-rabl@web.de
+💼 Currently building production platforms **@ TOC Agentur für Kommunikation** — feature work, white-label launches, and UI.
 
 ---
 
-## Featured projects
+## 🏢 Production work @ TOC
 
-### Footnote — agentic RAG knowledge assistant
-Answers questions *only* from your documents and cites every claim down to the page and line — or honestly says it doesn't know. Hybrid retrieval (vector + full-text, fused with RRF), agentic tool-calling, automated evals, tracing, and CI — built entirely on free tiers.
+Full-stack development across TOC's live SaaS platforms — features end-to-end, white-label launches, UI, and bug fixing.
 
-**[Live demo](https://your-live-url)** · **[Code](https://github.com/your-handle/footnote)**  
-`Next.js` · `TypeScript` · `Postgres + pgvector` · `Vercel AI SDK` · `Gemini`
-
-### Vault — full-stack auction platform
-Built and deployed solo: list items, place bids, highest bidder wins and pays at close. Concurrency-safe bidding (Postgres row-level locking), automatic close via AWS Lambda + EventBridge, and Stripe Checkout with webhook-verified, idempotent payments.
-
-**[Live demo](https://your-live-url)** · **[Code](https://github.com/your-handle/vault)**  
-`Next.js` · `TypeScript` · `Drizzle ORM` · `Supabase` · `Stripe` · `AWS` · `Vercel`
-
-> Also: **[Travel-Me](https://github.com/your-handle/travel-me)** — a full-stack work-exchange platform for travelers (team project).
+- 🌍 **[wintersummerjobs.com](#)** — seasonal hospitality job platform
+- 🏷️ White-label instances — **[seefeld.job-offers.com](#)** · **[kinderhotels.job-offers.com](#)**
+- 📣 **[deinewinterwoche.de](#)** — campaign platform
 
 ---
 
-## Tech stack
+## ✨ Featured projects
+
+### 📚 Footnote — agentic RAG knowledge assistant
+Answers questions *only* from your documents and cites every claim down to the page and line — or honestly says it doesn't know. Hybrid retrieval (vector + full-text, RRF), agentic tool-calling, evals, tracing & CI. Built on free tiers.  
+🔗 **[Live demo](#)** · **[Code](#)** — `Next.js` · `TypeScript` · `Postgres + pgvector` · `Vercel AI SDK` · `Gemini`
+
+### 🔨 Vault — full-stack auction platform
+Built and deployed solo: list items, place bids, highest bidder wins and pays at close. Concurrency-safe bidding, automatic close via AWS Lambda + EventBridge, Stripe Checkout with webhook-verified payments.  
+🔗 **[Live demo](#)** · **[Code](#)** — `Next.js` · `TypeScript` · `Drizzle ORM` · `Supabase` · `Stripe` · `AWS`
+
+### 🧳 Travel-Me — work-exchange platform for travelers
+Full-stack platform (team project).  
+🔗 **[Code](#)**
+
+---
+
+## 📊 GitHub stats
+
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonRabl11&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonRabl11&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Tech stack
 
 **Frontend** — React · Next.js · TypeScript · Tailwind CSS · SCSS  
 **Backend** — Node.js · Express · PostgreSQL · Drizzle ORM · REST APIs  
