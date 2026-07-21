@@ -11,7 +11,7 @@
 Full-stack development across TOC's live SaaS platforms — features end-to-end, white-label launches, UI, and bug fixing.
 
 - 🌍 **[wintersummerjobs.com](https://wintersummerjobs.com)** — seasonal job platform
-- 🏷️ White-label instances — **[seefeld.job-offers.com](https://seefeld.job-offers.com)** · **[kinderhotels.job-offers.com](https://kinderhotels.job-offers.com)**
+- 🏷️ **[seefeld.job-offers.com](https://seefeld.job-offers.com)** · **[kinderhotels.job-offers.com](https://kinderhotels.job-offers.com)** — White-label instances  
 - 📣 **[deinewinterwoche.de](https://deinewinterwoche.de)** — campaign platform
 
 ---
