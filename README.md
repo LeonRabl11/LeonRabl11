@@ -12,7 +12,7 @@ Full-stack development across TOC's live SaaS platforms — features end-to-end,
 
 - 🌍 **[wintersummerjobs.com](https://wintersummerjobs.com)** — seasonal job platform
 - 🏷️ **[seefeld.job-offers.com](https://seefeld.job-offers.com)** · **[kinderhotels.job-offers.com](https://kinderhotels.job-offers.com)** — White-label instances  
-- 📣 **[deinewinterwoche.de](https://deinewinterwoche.de)** — campaign platform
+- 📣 **[deinewinterwoche.de](https://deinewinterwoche.de)** — Sweepstakes platform 
 
 ---
 
